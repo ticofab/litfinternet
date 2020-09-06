@@ -2,7 +2,9 @@
 
 Code from my FIRST website ever in 1998.
 
-Back in 1997 I was 16 and the World Wide Web was a new thing. I was also in love with the greatest Italian rock band of all times, named Litfiba.
+Back in 1997 I was 16 and the World Wide Web was a new thing. 
+I was also in love with the greatest Italian rock band of all times, named Litfiba.
+My nickname was Shark.
 
 I decided to create a website about the band. The site would be called "Litfinternet", from Litfiba + Internet.
 I remember writing all HTML code by hand in Windows 95's Notepad. No CSS, no Javascript, no PHP. Only HTML.
